@@ -1,0 +1,15 @@
+<svg width="0" height="0" class="hidden">
+
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 24" id="heart_icon">
+    <g clip-path="url(#clip0)">
+      <path d="M1.5 8.4C1.5 4 5 3 7 3C9.5 3 11.5 5 12.5 6.5C13.5 5 15.5 3 18 3C20 3 23.5 4 23.5 8.4C23.5 15 12.5 21 12.5 21C12.5 21 1.5 15 1.5 8.4Z" stroke="#525252" stroke-width="2"></path>
+    </g>
+    <defs>
+      <clipPath id="clip0">
+        <rect width="24" height="24" fill="white" transform="translate(0.5)"></rect>
+      </clipPath>
+    </defs>
+  </symbol>
+
+
+</svg>
